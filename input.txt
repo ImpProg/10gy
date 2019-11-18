@@ -1,0 +1,6 @@
+alma
+korte
+xy
+1234
+C++
+Python

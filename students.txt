@@ -1,0 +1,5 @@
+4
+AAAAAA:X Y:21:2,3,4
+BBBBBB:C D:19:4,5,3
+CCCCCC:Kiss Pista:20:5,5,4
+DDDDDD:Wincs Eszter:19:4,4,3
